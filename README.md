@@ -1,1 +1,2 @@
 # Bus-Reservation-System
+Bus reservation system is a very simple project showing the implementation of class along with the object of C++ language. This project is very simple to understand, and it will help you learn how to create class and object in your C++ project/mini project. Here, the user can perform tasks like install bus information, reserve bus seat, show reservation information and show information regarding the buses available.
